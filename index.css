@@ -2,3 +2,8 @@ body {
   background-color: lightgray;
 }
 
+h1 {
+  background-color: yellow;
+  color: darkblue;
+  font-size: 60px;
+}
